@@ -1,12 +1,20 @@
-# React Shadcn Starter Kit
+# Youflix App
 
-React + Vite + TypeScript template for building apps with Tailwind CSS and ShadcnUI.
+This repo for development front-end microservices architecture for Youflix App is information about movies, built in React, Vite, TypeScript, Tailwind, ShadcnUI.
 
-## Getting Started
+## Getting Started to Contribute
+
+Forking this repository
+Clone your own fork of repository:
 
 ```
-git clone https://github.com/maymiquy/myboilerplate-react.git your-project-name
-cd your-project-name
+git clone https://github.com/<yourname>/<your-fork-name>.git <yourlocal-projectname>
+```
+
+Getting to install dependencies:
+
+```
+cd your-fork-name
 npm install
 npm run dev
 ```
