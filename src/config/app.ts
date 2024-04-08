@@ -7,9 +7,9 @@ interface AppConfig {
 }
 
 export const appConfig: AppConfig = {
- name: "Starter Kit",
+ name: "Youflix",
  github: {
-  title: "React + ShadcnUI Starter Kit",
-  url: "https://github.com/maymiquy",
+  title: "Welcome to Youflix get your favorite movies",
+  url: "https://github.com/maymiquy/youflix",
  },
 };

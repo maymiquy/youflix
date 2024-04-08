@@ -20,18 +20,18 @@ export const menuItem: NavItemWithChildren[] = [
   to: "",
  },
  {
-  title: "Products",
+  title: "Year",
   to: "/sample",
  },
  {
-  title: "Dropdown Menu",
+  title: "Genre",
   items: [
    {
-    title: "About",
+    title: "Action",
     to: "/#",
    },
    {
-    title: "Contact",
+    title: "Romance",
     to: "/#",
    },
   ],
